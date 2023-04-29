@@ -213,7 +213,7 @@ svg {
 }
 
 button {
-  margin: 0 10px;
+  margin: 0 5px;
   padding: 1em;
   border: 1px solid #42b983;
   border-radius: 10px;
